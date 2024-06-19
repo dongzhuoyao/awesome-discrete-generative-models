@@ -26,12 +26,18 @@ Feel free to send [pull requests](https://github.com/dongzhuoyao/awesome-discret
 
 ### Papers
 
+**Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design**\
+*Andrew Campbell, Jason Yim, Regina Barzilay, Tom Rainforth, Tommi Jaakkola* \
+ICML 24. [[Paper](https://arxiv.org/abs/2402.04997)] \
+
 **Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution** \
 *Aaron Lou, Chenlin Meng, Stefano Ermon* \
 Arxiv 2023/10. [[Paper](https://arxiv.org/abs/2310.16834)] \
 
 **Structured Denoising Diffusion Models in Discrete State-Spaces** \
 NeurIPS 2021  [[PDF](https://arxiv.org/pdf/2107.03006.pdf)]
+
+
 
 
 #### Year 2022
