@@ -26,6 +26,12 @@ Feel free to send [pull requests](https://github.com/dongzhuoyao/awesome-discret
 
 ### Papers
 
+**Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution** \
+*Aaron Lou, Chenlin Meng, Stefano Ermon* \
+Arxiv 2023/10. [[Paper](https://arxiv.org/abs/2310.16834)] \
+
+
+
 #### Year 2022
 * Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[PDF](https://arxiv.org/pdf/2208.04202.pdf), [Code](https://github.com/google-research/pix2seq)]
 
