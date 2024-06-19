@@ -30,6 +30,8 @@ Feel free to send [pull requests](https://github.com/dongzhuoyao/awesome-discret
 *Aaron Lou, Chenlin Meng, Stefano Ermon* \
 Arxiv 2023/10. [[Paper](https://arxiv.org/abs/2310.16834)] \
 
+**Structured Denoising Diffusion Models in Discrete State-Spaces** \
+NeurIPS 2021  [[PDF](https://arxiv.org/pdf/2107.03006.pdf)]
 
 
 #### Year 2022
@@ -54,8 +56,6 @@ Arxiv 2023/10. [[Paper](https://arxiv.org/abs/2310.16834)] \
 
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[PDF](https://arxiv.org/pdf/2102.05379.pdf)]
   
-* Structured Denoising Diffusion Models in Discrete State-Spaces, NeurIPS 2021  [[PDF](https://arxiv.org/pdf/2107.03006.pdf)]
-
 * Discovering Non-monotonic Autoregressive Orderings with Variational Inference, ICLR 2021  [[PDF](https://arxiv.org/abs/2110.15797)]
 
 ## Blog Posts
