@@ -1,8 +1,20 @@
-# awesome-discrete-generative-models
+# Awesome-discrete-generative-models
 
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/dongzhuoyao/awesome-discrete-diffusion-models?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/dongzhuoyao/awesome-discrete-diffusion-models?color=green&label=Fork)
 
-A curated list for awesome dicrete diffusion models resources.
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dongzhuoyao/awesome-discrete-generative-models&type=Date)](https://star-history.com/#dongzhuoyao/awesome-discrete-generative-models&Date)
+# Contributors
+
+
+
+<!-- readme: collaborators,contributors -end -->
+
+<a href="https://github.com/dongzhuoyao/awesome-discrete-generative-models/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dongzhuoyao/awesome-discrete-generative-models" />
+</a>
+
 
 ## Contribution
 
