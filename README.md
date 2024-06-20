@@ -1,4 +1,4 @@
-# Awesome-discrete-generative-models
+# Awesome Discrete Generative Models
 
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/dongzhuoyao/awesome-discrete-diffusion-models?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/dongzhuoyao/awesome-discrete-diffusion-models?color=green&label=Fork)
 
